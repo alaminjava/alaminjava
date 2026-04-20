@@ -1,3 +1,11 @@
+<!-- 🔥 ANIMATED HEADER -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Al%20Amin%20Java&fontSize=35&fontColor=ffffff&animation=fadeIn)
+
+<!-- ✍️ TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Java+%7C+JavaScript+%7C+Python;Building+Scalable+Web+Apps)](https://git.io/typing-svg)
+
+---
+
 # Hi there 👋 I'm Al Amin
 
 💻 Full-Stack Developer | MERN Stack Enthusiast  
@@ -46,10 +54,20 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=alaminjava&theme=darkhub&no-frame=true&row=1&margin-w=10)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/alaminjava/alaminjava/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🔥 Featured Projects
-- 🌐 Portfolio Website – HTML, CSS, JS
-- 🧮 Calculator App – JavaScript
-- 🛒 E-commerce UI – React
+- 🌐 Portfolio Website – HTML, CSS, JS  
+- 🧮 Calculator App – JavaScript  
+- 🛒 E-commerce UI – React  
 
 ---
 
