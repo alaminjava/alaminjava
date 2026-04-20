@@ -1,5 +1,5 @@
 <!-- 🔥 ANIMATED HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Al%20Amin%20Java&fontSize=35&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Al%20Amin%20Hossain&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 <!-- ✍️ TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Java+%7C+JavaScript+%7C+Python;Building+Scalable+Web+Apps)](https://git.io/typing-svg)
