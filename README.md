@@ -47,8 +47,6 @@
 ---
 
 ## 🔥 Featured Projects
-> (Add your real projects here — VERY important)
-
 - 🌐 Portfolio Website – HTML, CSS, JS
 - 🧮 Calculator App – JavaScript
 - 🛒 E-commerce UI – React
